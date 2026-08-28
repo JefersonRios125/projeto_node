@@ -1,0 +1,24 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "description": "Primeiro projeto em Node - Repositório para acompanhamento das aulas de microsserviços piaget ADS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefersonRios125/projeto_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JefersonRios125/projeto_node/issues"
+  },
+  "homepage": "https://github.com/JefersonRios125/projeto_node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
